@@ -4,6 +4,15 @@ This project demonstrates a real-world approach to using **SQL** for sales analy
 
 ---
 
+
+## 🎯 Business Case
+
+> A sales manager or business analyst at a mid-sized company needs to regularly evaluate monthly revenue, identify top customers, and track business performance by product or geography. This SQL project delivers those needs — reliably and without needing spreadsheets.
+
+
+---
+
+
 ## 📈 Project Goals
 
 - Design SQL queries to derive business KPIs
@@ -31,7 +40,6 @@ This project assumes the following relational structure:
 
 ---
 
----
 
 ## 🧠 Real-World Outcomes
 
@@ -42,3 +50,11 @@ This project assumes the following relational structure:
 | Product Performance       | Best-sellers and low-margin products |
 | Business Reporting        | Replace Excel reports with SQL |
 | BI Dashboard Support      | Export-ready query output |
+
+---
+
+## 🧑 Author
+
+**Shivaji Jadhav**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)  
+📧 shivajijadhav9255@gmail.com
